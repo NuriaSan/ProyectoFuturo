@@ -1,3 +1,4 @@
+// Realizado por Nuria Sánchez
 public class Pfuturo {
     private String valor1;
     private String valor2;
