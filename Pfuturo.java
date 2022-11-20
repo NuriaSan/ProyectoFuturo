@@ -2,7 +2,7 @@ public class Pfuturo {
     private String valor1;
     private String valor2;
 
-    public Pfuturo (){}
+    private Pfuturo (){}
     static String veredicto(String valor1, String valor2){
         if (valor1.equals(valor2)) {
                 System.out.println ("Bien. Pero una hora de estudio para cada módulo puede ser insuficiente.");
